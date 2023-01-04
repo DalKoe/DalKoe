@@ -1,10 +1,8 @@
 ## Who is Dalkoe
 Developer and Owner of Trono Roleplay. Trono has seen over 2500 characters and over 1,867 accounts.<br>
-Creator and Developer of Koe Scripts, Custom scripts for Fivem Roleplay servers. 
 
 ## Discords
 
-[![Koe Scripts](https://discordapp.com/api/guilds/973740232363085854/widget.png?style=banner2)](https://discord.gg/vnrGVBCkes)
 [![Trono Roleplay](https://discordapp.com/api/guilds/837466615393026099/widget.png?style=banner2)](https://discord.gg/s2BdJzuQsd)
 
 ## GitHub Stats
