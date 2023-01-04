@@ -13,4 +13,4 @@ Developer and Owner of Trono Roleplay. Trono has seen over 2500 characters and o
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DalKoe&label=Views&color=blue&style=plastic" alt="DalKoe" /> </p>
 
 ## Links
-https://koe-scripts.tebex.io/
+https://discord.trono.city
