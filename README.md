@@ -1,5 +1,5 @@
 ## Who is Dalkoe
-Developer and Owner of Trono Roleplay. Trono has seen over 2500 characters and over 1,867 accounts.<br>
+I no longer do FiveM Development.<br>
 
 ## Discords
 
