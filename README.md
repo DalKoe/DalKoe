@@ -3,7 +3,7 @@ I no longer do FiveM Development.<br>
 
 ## Discords
 
-[![Trono Roleplay](https://discordapp.com/api/guilds/837466615393026099/widget.png?style=banner2)](https://discord.gg/s2BdJzuQsd)
+[![Trono Roleplay]([https://discordapp.com/api/guilds/837466615393026099/widget.png?style=banner2]](ttps://discord.gg/uFcP7Pzc7h)
 
 ## GitHub Stats
 <p align="left">
