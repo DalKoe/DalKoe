@@ -13,4 +13,4 @@ I no longer do FiveM Development.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DalKoe&label=Views&color=blue&style=plastic" alt="DalKoe" /> </p>
 
 ## Links
-https://discord.trono.city
+[https://discord.trono.city](https://discord.gg/s2BdJzuQsd)
