@@ -1,5 +1,7 @@
 ## Who is Dalkoe
-I no longer do FiveM Development.<br>
+I no longer do FiveM Development.
+Lead Developer for Koe Games LLC, Creating games with Unreal Engine 5.0
+<br>
 
 ## Discords
 
