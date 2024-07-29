@@ -5,7 +5,7 @@ Lead Developer for Koe Games LLC, Creating games with Unity
 
 ## Discords
 
-[![Trono Roleplay](https://discord.com/api/guilds/1065241256248225792/widget.png?style=banner2)](https://discord.gg/s2BdJzuQsd)
+[![Koe Games](https://discord.com/api/guilds/1065241256248225792/widget.png?style=banner2)]([https://discord.gg/s2BdJzuQsd](https://discord.gg/b9AAKVjAFk))
 
 ## GitHub Stats
 <p align="left">
