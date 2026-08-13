@@ -1,6 +1,5 @@
 ## Who is Dalkoe
-I no longer do FiveM Development.
-Lead Developer for Koe Games LLC, Creating games with Unity
+I guess I do Fivem Development again, help
 <br>
 
 ## Discords
@@ -13,6 +12,3 @@ Lead Developer for Koe Games LLC, Creating games with Unity
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DalKoe&label=Views&color=blue&style=plastic" alt="DalKoe" /> </p>
-
-## Links
-[Koe Games Discord](https://discord.gg/s2BdJzuQsd)
